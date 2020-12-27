@@ -20,7 +20,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     A187: '📍404!-ᏰᏫᏐ📍',
     instagram: '@discharged404',
-    nomer: 'wa.me/6299650894',
+    nomer: 'Wa.me/6299650894',
     aktif: '24 JAM',
     youtube: 'https://youtube.com/channel/UCgRG_7A0EkhdOdsJmiHj_TQ',
     whatsapp: 'https://chat.whatsapp.com/H8wll0oDjMwFelvkH9sUNN',
